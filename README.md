@@ -7,6 +7,6 @@ Per affermare la nostra libertà, è importante imparare a comprendere Bitcoin.
 
 ## Simple-Bitcoin spiega cosa è bitcoin e come funziona
 
-Per leggere questo libro vai a [BOOK.md](
+Per leggere questo libro vai a [BOOK.md](BOOK.md)
 # Reading This Book
 Capire e conoscere Bitcoin
